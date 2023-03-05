@@ -503,7 +503,7 @@ $(document).ready(function() {
   		type: 'ajax',
 		ajax: {
 			settings: {cache:false} 
-			// Ajax settings object that will extend default one - http://api.jquery.com/jQuery.ajax/#jQuery-ajax-settings
+			// Ajax settings object that will extend default one - https://api.jquery.com/jQuery.ajax/#jQuery-ajax-settings
 			// For example:
 			// settings: {cache:false, async:false}
 		},

@@ -3,7 +3,7 @@
 
 /*
  Original Plugin by Osvaldas Valutis, www.osvaldas.info
- http://osvaldas.info/drop-down-navigation-responsive-and-touch-friendly
+ https://osvaldas.info/drop-down-navigation-responsive-and-touch-friendly
  Available for use under the MIT License
  */
 
